@@ -127,7 +127,7 @@ if st.button("Analyze & Rank Resumes"):
 # Display footer
 st.markdown("---")
 st.write("Built with ❤️ by [Rushikesh Bobade]")
-st.write("[GitHub](https://github.com/rushikeshbobade/resume-screening-system) | [LinkedIn](https://www.linkedin.com/in/rushikesh-bobade-96a69429b/)")
+st.write("[GitHub](https://github.com/rushikesh369/AI-resume-screening-system.git) | [LinkedIn](https://www.linkedin.com/in/rushikesh-bobade-96a69429b/)")
 """
 This code is a basic implementation of a resume screening and ranking system using Streamlit. It allows users to upload resumes (in PDF or image format) and enter a job description. The system then ranks the resumes based on their similarity to the job description and displays the results along with key details extracted from the resumes using Named Entity Recognition (NER). It also includes a bias check to detect potential bias in the ranking results. The code uses PyPDF2, pytesseract, spaCy, Sentence Transformers, and torch libraries for text extraction, NER, embeddings, and similarity calculation. The final results are displayed using Streamlit components. The code can be further enhanced with additional features, such as real bias detection algorithms, advanced NLP techniques, and improved user interface design.
 """
