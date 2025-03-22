@@ -46,8 +46,8 @@ Recruitment can be time-consuming, but this project simplifies the process by:
 ## 🚀 Installation Guide  
 
 ### Prerequisites  
-1. Install Python 3.8** or higher.  
-2. Install Tesseract OCR**:  
+1. Install Python 3.8 or higher.  
+2. Install Tesseract OCR:  
    - Linux: `sudo apt install tesseract-ocr`  
    - macOS: `brew install tesseract`  
    - Windows: [Tesseract OCR Download](https://github.com/tesseract-ocr/tesseract)  
